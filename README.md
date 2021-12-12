@@ -14,6 +14,7 @@
 
 ## Step 4
 
+### run 'npm run dev' to start the node server on localhost
 ### Copy the sample data to add in body of POST request in postman on http://localhost:5000/products 
 ### Product 1 is seeded
 ### test all the other requests
